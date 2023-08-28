@@ -6,7 +6,7 @@ import org.testng.Assert;
 
 import genericLibraries.BaseClass;
 import pomPages.WelcomePage;
-
+//User Able To Add Address 
 public class AddAddressTest extends BaseClass{
 		public AddAddressTest() throws InterruptedException{
 
